@@ -8,6 +8,7 @@ namespace Lab02.Game
         public void StartGame()
         {
             Console.Write("hello work");
+            Card card1 = new Card();
         }
     }
 }
